@@ -22,12 +22,12 @@
 			<label>Password:<input type="password" name="password"/></label>
 		</center>
         </div>
-      <footer><div class="footer" style="text-align:center">
-      	Site Copyright &copy; 2006 Propertyfinder.ae ::: All Rights Reserved :::
-        <a href="#">PRIVACY POLICY</a> |
-        <a href="#">TERMS OF USE</a> |
-        <a href="#">CONTACT US</a> |
-        <!-- end .footer --></div></footer>
+      <footer style="position:absolute;bottom:0px;"><div class="footer" style="text-align:center">
+      	<span>Rishabh</span> |
+		<span>Abhishek</span> |
+      	<span>Priyanka</span> |
+      	<span>Payal</span> |
+       </div></footer>
       <!-- end .container --></div>
     </body>
 </html>
