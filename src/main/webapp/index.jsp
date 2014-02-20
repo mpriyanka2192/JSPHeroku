@@ -22,7 +22,7 @@
 			<label>Password:<input type="password" name="password"/></label>
 		</center>
         </div>
-      <footer style="position:absolute;bottom:0px;"><div class="footer" style="text-align:center">
+      <footer style="position:absolute;bottom:0px;width:100%"><div class="footer" style="text-align:center">
       	<span>Rishabh</span> |
 		<span>Abhishek</span> |
       	<span>Priyanka</span> |
