@@ -12,55 +12,10 @@
                 </script>
     		</div>
     		<div class="header">
-    			<h1>Cloud Infrastructure Systems</h1>
+    			<h1 style="foreground-color:#ffffff">Cloud Infrastructure Systems</h1>
     		</div>
         </header>
-        <div id="headnav" style="text-align:center">
-        	<a href=#>1</a> |
-            <a href="#">2</a> |
-            <a href="#">3</a> |
-        </div>
-      <div class="sidebar1">
-        <ul class="nav">
-          <li><ul style="list-style: none;"><h2 style="text-align:right;"><a style="background-color:transparent;" href="pages/freehold/freehold.html">Free Hold</a></h2>
-          <li><a href="#">1</a></li>
-          <li><a href="#">2</a></li>
-          <li><a href="#">3</a></li>
-          <li><a href="#">4</a></li>
-          </ul></li>
-          <li><ul style="list-style: none;"><h2 style="text-align:right;"><a style="background-color:transparent;" href="pages/rental/rental.html">Rental</a></h2>
-          <li><a href="#">5</a></li>
-          <li><a href="#">6</a></li>
-          <li><a href="#">7</a></li>
-          <li><a href="#">8</a></li>
-          </ul></li>
-        </ul>
-        <!--<p> The above links demonstrate a basic navigational structure using an unordered list styled with CSS. Use this as a starting point and modify the properties to produce your own unique look. If you require flyout menus, create your own using a Spry menu, a menu widget from Adobe's Exchange or a variety of other javascript or CSS solutions.</p>
-        <p>If you would like the navigation along the top, simply move the ul.nav to the top of the page and recreate the styling.</p>-->
-        <!-- end .sidebar1 --></div>
-        <div class="sidebar2">
-        	<div id="searchbox">
-            	<h2 style="text-align:right;">Quick Search</h2>
-                <div id="radioDiv" style="margin-left:20%"><label><input type="radio" name="radios" checked/>9</label>
-                <label><input type="radio" name="radios"/>8</label></div>
-                <br />
-                <center><select name="City">
-                	<option>7</option>
-                </select></center>
-                <br />
-                <center><select name="Type">
-                <option>6</option>
-                </select></center>
-                <br />
-                <center><select name="Rooms">
-                <option>5</option>
-                </select></center>
-                <br />
-                <center>
-                	<input type="button" value="Go"/>
-                </center>
-            </div>
-        </div>
+
       <div class="content">
       	<center><img src="images/House.jpg" style="width:80%;"/></center>
         <p>Hi</p>
