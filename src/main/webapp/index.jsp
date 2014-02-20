@@ -19,9 +19,9 @@
       <div class="content">
       	<center>
 		<form>
-			<div><label>Username:<input type="text" name="username"/></label></div>
-			<div><label>Password:<input type="password" name="password"/></label></div>
-			<input type="submit"></input>
+			Username:<input type="text" name="username"/><br/>
+			Password:<input type="password" name="password"/>
+			<input type="submit" value="Submit"></input>
 			</form>
 		</center>
         </div>
