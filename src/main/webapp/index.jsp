@@ -18,8 +18,11 @@
 
       <div class="content">
       	<center>
+		<form>
 			<div><label>Username:<input type="text" name="username"/></label></div>
 			<div><label>Password:<input type="password" name="password"/></label></div>
+			<input type="submit"></input>
+			</form>
 		</center>
         </div>
       <footer style="position:absolute;bottom:0px;width:100%"><div class="footer" style="text-align:center">
