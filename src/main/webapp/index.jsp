@@ -18,15 +18,15 @@
 
       <div class="content">
       	<center>
-			<label>Username:<input type="text" name="username"/></label>
-			<label>Password:<input type="password" name="password"/></label>
+			<div><label>Username:<input type="text" name="username"/></label></div>
+			<div><label>Password:<input type="password" name="password"/></label></div>
 		</center>
         </div>
       <footer style="position:absolute;bottom:0px;width:100%"><div class="footer" style="text-align:center">
       	<span>Rishabh</span> |
 		<span>Abhishek</span> |
       	<span>Priyanka</span> |
-      	<span>Payal</span> |
+      	<span>Payal</span>
        </div></footer>
       <!-- end .container --></div>
     </body>
