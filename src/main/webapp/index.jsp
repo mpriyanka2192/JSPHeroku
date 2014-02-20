@@ -12,7 +12,7 @@
                 </script>
     		</div>
     		<div class="header">
-    			<img src="images/banner.jpg" width="100%" height="90" />
+    			<t1>Cloud Infrastructure Systems</t1>
     		</div>
         </header>
         <div id="headnav" style="text-align:center">
