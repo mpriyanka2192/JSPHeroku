@@ -18,11 +18,19 @@
 
       <div class="content">
       	<center>
-		<form>
-			Username:<input type="text" name="username"/><br/>
-			Password:<input type="password" name="password"/>
-			<input type="submit" value="Submit"></input>
-			</form>
+		<form class="form-1">
+			<p class="field">
+			<input type="text" name="login" placeholder="Username">
+				<i class="icon-user icon-large"></i>
+			</p>
+				<p class="field">
+				<input type="password" name="password" placeholder="Password">
+				<i class="icon-lock icon-large"></i>
+			</p>        
+			<p class="submit">
+				<button type="submit" name="submit"><i class="icon-arrow-right icon-large"></i></button>
+			</p>
+		</form>
 		</center>
         </div>
       <footer style="position:absolute;bottom:0px;width:100%"><div class="footer" style="text-align:center">
