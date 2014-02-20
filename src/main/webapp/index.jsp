@@ -12,7 +12,7 @@
                 </script>
     		</div>
     		<div class="header">
-    			<t1>Cloud Infrastructure Systems</t1>
+    			<h1>Cloud Infrastructure Systems</h1>
     		</div>
         </header>
         <div id="headnav" style="text-align:center">
